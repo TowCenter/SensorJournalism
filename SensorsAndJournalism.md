@@ -5707,7 +5707,7 @@ Endnotes
 ========
 
 Endnotes: The Landscape
------------------------
+
 
 1 Indeed computational and data journalism form a strong core of the Tow
 Center’s research program. Readers of this report may also consider
@@ -5718,35 +5718,35 @@ those who follow the news about algorithms in financial systems know,
 sometimes logging data as frequently as once a millisecond is too slow.\
 
 Endnotes: Sensors and Sensibilia
---------------------------------
+
 
 1 C.E. is the abbreviation for Common Era, a scholarly alternative
 naming of the traditional calendar era, Anno Domini (A.D.). Similarly,
 B.C.E. is an abbreviation for Before Common Era.\
 
 Endnotes: The Characteristics of Sensors
-----------------------------------------
+
 
 1 These qualities are adapted from the widely cited textbook The Sensor
 Technology Handbook, edited by Jon Wilson. It mainly explores electronic
 sensors, but the qualities included here are broadly applicable.\
 
 Endnotes: Case Studies
-----------------------
+
 
 1 Readers who would like to study innovative journalistic uses of
 satellite data should read Paving Paradise, Craig Pittman and Matt
 Waite’s book about Florida’s vanishing wetlands.\
 
 Endnotes: Houston Chronicle
----------------------------
+
 
 1 The EPA’s health effect screening levels are set at the point equal to
 the risk of one additional person getting cancer per million of
 population.\
 
 Endnotes: Public Lab
---------------------
+
 
 1 The Knight Foundation also funds part of the Tow Center.\
 2 Emergency Response Management Agency, Deepwater Gulf Response Map,
@@ -5756,7 +5756,7 @@ noaa.gov/erma.html\#/x=-89.92763&y=29.48048&z=15&layers=23036+5723+23566+7391.
 http://publiclab.org/map/ wilkinson-bay-northeast-louisiana/2010-07-22.\
 
 Endnotes: USA Today
--------------------
+
 
 1 Peter Eisler and Alison Young, “Some Neighborhoods Dangerously
 Contaminated by Lead Fallout,” USA Today, 20 Apr. 2012,
@@ -5765,7 +5765,7 @@ http://usatoday30.usatoday.com/news/nation/story/2012-
 2 Ibid.\
 
 Endnotes: Sun Sentinel
-----------------------
+
 
 1 Mark Puente, “St Petersburg Police Take-home Car Perk Under Scrutiny,”
 Tampa Bay Times, 24 May 2013,
@@ -5776,7 +5776,7 @@ Public-Private Partnerships: Managing Risks and Opportunities (Oxford:
 Blackwell Science, 2003).\
 
 Endnotes: WNYC
---------------
+
 
 1 Guan Yang was looking to make some money for Hack Manhattan, a
 tax-exempt nonprofit. He’d produced 50 kits with custom circuit boards
@@ -5789,7 +5789,7 @@ that title from June 30, 2006. See
 http://archive.pressthink.org/2006/06/27/ppl~f~rmr.html\
 
 Endnotes: Planet Money
-----------------------
+
 
 1 The Jensen brothers won’t disclose the insurance company with whom
 they work, saying only that theirs was a difficult policy to procure. At
@@ -5800,7 +5800,7 @@ Journalism,” Tow Center for Digital Journalism, Columbia University,
 Feb. 2013, http://videonow.towcenter.org.\
 
 Endnotes: The Washington Post
------------------------------
+
 
 1 This is an approximate figure. In fact, the accuracy of latitude and
 longitude numbers with decimal points (or decimal degrees) changes
@@ -5808,7 +5808,7 @@ depending on the location’s proximity to the equator. The farther away
 from the equator, the more precise the number.\
 
 Endnotes: Industry Overview
----------------------------
+
 
 1 The FAA also sends letters to small drone pilots who fly their craft
 “for benefit,” warning that the next action may be prosecution if the
@@ -5843,7 +5843,6 @@ www.poynter.org/latest-news/mediawire/235099/photographer-saysspokesman-
 reviews-drone-shot-video-occurred-in-a-gray-area/.\
 
 Endnotes: Syed
---------------
 
 1 Louis Brandeis and Samuel Warren,“The Right to Privacy,” 4 Harv. L.
 Rev. 5 (1890).\
@@ -5884,7 +5883,7 @@ reporter’s actual state of mind at the time of publication. This is a
 very high burden of proof. 10 Restatement (Second) of Torts, Sec. 652E.\
 
 Endnotes: Culver
-----------------
+
 
 1 Daily Drone: Seemingly Endless Waters in Mississippi, YouTube, 12 May
 2011, www.youtube. com/watch?v=MI2d3ui2vYw.\
@@ -5917,7 +5916,6 @@ www.nytimes.com/roomfordebate/2013/09/08/privacy-and-the-internet-of-things/a-bi
 for-the-internet-of-things.\
 
 Endnotes: Stearns
------------------
 
 1 “Poynter Publishes Definitive New Journalism Ethics Book,” Poynter
 Institute, 11 Sep. 2013,
@@ -5966,7 +5964,7 @@ www.cjr.org/behind~t~he~n~ews/updating~t~he~p~rivacy~p~rotectio.php.\
 12 Alistair Croll, 2012.\
 
 Endnotes: Schroyer
-------------------
+
 
 1 Irving Washington, “Be Open to Open Source,” Online News Association,
 30 Jan. 2013,
@@ -6027,7 +6025,7 @@ Source Platform Strategies,” Research Policy, Vol. 32, Iss. 7 (Jul.
 19 Ibid.\
 
 Endnotes: Hord
---------------
+
 
 1 FCC Office of Engineering and Technology Web site,
 http://transition.fcc.gov/oet/.\
@@ -6056,7 +6054,7 @@ enforcement citation regarding a wireless video camera system.\
 13 CFR-2010, Title 47, Vol. 1, Part 15, Subpart C, section 212.\
 
 Endnotes: Cooper
-----------------
+
 
 1 Diana Marina Cooper, “A Licensing Approach to Regulation of Open
 Robotics,” Robot Law, eds. Ryan Calo, Ian Kerr, and Michael Froomkin
@@ -6096,7 +6094,7 @@ Remote-Sensing.html.\
 17 Ibid.\
 
 Endnotes: Waite and Osterreicher
---------------------------------
+
 
 1 Federal Aviation Administration, “Busting Myths About the FAA and
 Unmanned Aircraft,” 26 Feb. 2014,
@@ -6158,7 +6156,7 @@ https://docs.legis.wisconsin.gov/2013/related/proposals/ab203.\
 32 Ibid.\
 
 Endnotes: Sullivan
-------------------
+
 
 1 An aurei was a gold coin and monetary unit of ancient Rome, used from
 Caesar to Constantine I.\
@@ -6185,7 +6183,7 @@ overview. They would likely arise in a case with a varied set of facts
 not contemplated by our hypothetical.\
 
 Endnotes: Graves
-----------------
+
 
 1 Bill Kovach and Tom Rosenstiel, The Elements of Journalism (New York:
 Three Rivers Press, 2001) 41.\
@@ -6216,7 +6214,7 @@ Barnhurst, “The Makers of Meaning: National Public Radio and the New
 Long Journalism, 1980–2000,” Political Communication, 2003.\
 
 Endnotes: Stauffer
-------------------
+
 
 1 J.G. Proakis and D.K. Manolakis, Digital Signal Processing:
 Principles, Algorithms and Applications, 4th Edition (Upper Saddle
@@ -6262,7 +6260,7 @@ http://blogs.dickinson.edu/marcellusmonitoring/
 files/2012/07/Marcellus-Shale-Volunteer-Monitoring-Manual-2.0.pdf.\
 
 Endnotes: Recommendations
--------------------------
+
 
 1 Danah Boyd and Kate Crawford, “Six Provocations for Big Data,” A
 Decade in Internet Time: Symposium on the Dynamics of the Internet and
