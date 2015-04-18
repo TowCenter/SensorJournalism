@@ -3,6 +3,14 @@ SensorJournalism
 
 Repo for Tow Center Sensor Journalism report.
 
+Chapters and sections are denoted by:
+
+\chapter{Chapter title here}
+
+\section{Section title here}
+
+\subsection{Subsection title here}
+
 Some shorthand references for working in LaTeX:
 
 	***Bold, Italics, Quotations***
@@ -24,7 +32,7 @@ Some shorthand references for working in LaTeX:
 	\end{figure}
 
 	***Links***
-	\href{Link URL}{Link text}}
+	\href{Link URL}{Link text}
 
 	***Blockquotes***
 	\begin{quote}
